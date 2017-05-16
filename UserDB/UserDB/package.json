@@ -1,0 +1,9 @@
+{
+  "name": "user-db",
+  "version": "0.0.0",
+  "description": "UserDB",
+  "main": "server.js",
+  "author": {
+    "name": "manish.kumar"
+  }
+}
